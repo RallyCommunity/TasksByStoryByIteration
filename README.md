@@ -1,6 +1,9 @@
 TasksByStoryByIteration App
 =========================
 
+![screenshot1](screenshot1.png)
+![screenshot2](screenshot2.png)
+
 ## Overview
 
 This app displays a grid of all the tasks of all the stories of a selected iteration.
